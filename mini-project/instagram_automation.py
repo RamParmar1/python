@@ -4,7 +4,7 @@ from instabot import Bot
 bot = Bot()
 bot.login(username = "",password = "")
 
-bot.follow('') #automatic follow any user
+bot.follow('') #automatic follow any user via username
 
 bot.upload_photo("",caption = "") #in path change \ to this /
 
@@ -22,4 +22,4 @@ for Following in following:
 
 #There are also many other function of do the task in instagram from python prompt
 #but here most off functionlity's are there if you use pycharm editor then you can find many manual functionalitites.
-#only you do in this program is give information in single-quote and double-quote.
+
