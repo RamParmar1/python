@@ -1,4 +1,4 @@
-# Email Validation Usingn regex module
+# Email Validation Using regex module
 
 import re
 email_condition = "^[a-z]+[\._]?[a-z 0-9]+[@]\w+[.]\w{2,3}$"
