@@ -1,6 +1,6 @@
 #Whatsapp automation app
 
-#To use Realtime automation for WhatsApp follow below steps.
+#To Use Realtime automation for WhatsApp follow below steps.
 """1.Go to twilio.com & login.
     2.Then, for set-up in console.twilio.com tab under "Phone numbers",in 'Account Info'  save "Account SID & Account Token".
      3.Then, under "Messaging", in "Try it out" go for 'Send a WhatsApp message' and scan from your SmartPhone WhatsApp & send message "join blew-arrow".
