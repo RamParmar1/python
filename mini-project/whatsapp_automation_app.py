@@ -7,7 +7,7 @@
       4.Last, Open this file and Run the program.
     """
 
-#step-1 install required library
+#step-1 install required library.
 from twilio.rest import Client
 from datetime import datetime, timedelta
 import time
