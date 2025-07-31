@@ -12,7 +12,7 @@ from twilio.rest import Client
 from datetime import datetime, timedelta
 import time
 
-#step-2 twilio credentials
+#step-2 twilio credentials.
 account_sid = "" #Follow above steps and paste which you save previous
 auth_token = "" #Follow above steps and paste which you save previous
 
