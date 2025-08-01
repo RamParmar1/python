@@ -18,7 +18,7 @@ auth_token = "" #Follow above steps and paste which you save previous
 
 client = Client(account_sid, auth_token)
 
-#step-3 define send message function
+#step-3 define send message function.
 def send_whatsapp_message(recipient_number, message_body):
     try:
         message = client.messages.create(
