@@ -35,7 +35,7 @@ name = input('Enter the recipient name = ')
 recipient_number = input('Enter the recipient WhatsApp number with country code (e.g, +1 234 567 8900) = ')
 message_body = input(F'Enter the message you want to send to {name}: ')
 
-#step-5 parse date/time and calculate delay
+#step-5 parse date/time and calculate delay.
 date_str = input('Enter the date to send the message (YYYY-MM-DD): ')
 time_str = input('Enter the time to send the message (HH:MM in 24hour format): ')
 
