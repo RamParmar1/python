@@ -30,7 +30,7 @@ def send_whatsapp_message(recipient_number, message_body):
     except Exception as e:
         print('An error occured')
 
-#step-4 user input
+#step-4 user input.
 name = input('Enter the recipient name = ')
 recipient_number = input('Enter the recipient WhatsApp number with country code (e.g, +1 234 567 8900) = ')
 message_body = input(F'Enter the message you want to send to {name}: ')
